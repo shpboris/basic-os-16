@@ -1,0 +1,113 @@
+Turbo Assembler  Version 4.1  Copyright (c) 1988, 1996 Borland International
+
+Assembling file:   s:\kernel\core-hd.asm  to  core-hd.OBJ
+*Warning* s:\kernel\core-hd.asm(8) Global type doesn't match symbol type: _FARCALL
+Error messages:    None
+Warning messages:  1
+Passes:            1
+Remaining memory:  464k
+
+Turbo Assembler  Version 4.1  Copyright (c) 1988, 1996 Borland International
+
+Assembling file:   s:\lib\rt\entry.asm  to  entry.OBJ
+Error messages:    None
+Warning messages:  None
+Passes:            1
+Remaining memory:  468k
+
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\io\io.c:
+
+	Available memory 4147948
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\io\io.c:
+
+	Available memory 4146684
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\kernel\io-api.c:
+
+	Available memory 4155028
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\kernel\io-api.c:
+
+	Available memory 4153764
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\fs\fs.c:
+Warning s:\fs\fs.c 73: Nonportable pointer conversion in function load_fs_map
+Warning s:\fs\fs.c 84: Nonportable pointer conversion in function populate_fs_entries
+Warning s:\fs\fs.c 168: Nonportable pointer conversion in function populate_single_entry
+
+	Available memory 4142500
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\fs\fs.c:
+Warning s:\fs\fs.c 73: Nonportable pointer conversion in function load_fs_map
+Warning s:\fs\fs.c 84: Nonportable pointer conversion in function populate_fs_entries
+Warning s:\fs\fs.c 168: Nonportable pointer conversion in function populate_single_entry
+
+	Available memory 4140724
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\kernel\core.c:
+
+	Available memory 4152312
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\kernel\core.c:
+
+	Available memory 4151048
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\lib\stdio\stdio.c:
+
+	Available memory 4154948
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\lib\stdio\stdio.c:
+
+	Available memory 4152660
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\lib\string\string.c:
+
+	Available memory 4150592
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\lib\string\string.c:
+
+	Available memory 4149328
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\lib\exec\exec.c:
+
+	Available memory 4154948
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\lib\exec\exec.c:
+
+	Available memory 4152660
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\lib\fslib\fslib.c:
+
+	Available memory 4155460
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\lib\fslib\fslib.c:
+
+	Available memory 4152660
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\shell\shell.c:
+
+	Available memory 4153928
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\shell\shell.c:
+
+	Available memory 4152664
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\opt\hello\hello.c:
+
+	Available memory 4154788
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\opt\calc\calc.c:
+Warning s:\opt\calc\calc.c 55: Unreachable code in function main
+
+	Available memory 4149812
+Turbo C++ Version 3.00 Copyright (c) 1992 Borland International
+s:\utils\ls\ls.c:
+
+	Available memory 4153432
+Turbo Link  Version 5.0 Copyright (c) 1992 Borland International
+Turbo Link  Version 5.0 Copyright (c) 1992 Borland International
+Turbo Link  Version 5.0 Copyright (c) 1992 Borland International
+Turbo Link  Version 5.0 Copyright (c) 1992 Borland International
+Turbo Link  Version 5.0 Copyright (c) 1992 Borland International
